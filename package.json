@@ -1,5 +1,5 @@
 {
-  "name": "tumu-logs",
+  "name": "tumu-control",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/y5labs/tumu-logs.git"
+    "url": "git+https://github.com/y5labs/tumu-control.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/y5labs/tumu-logs/issues"
+    "url": "https://github.com/y5labs/tumu-control/issues"
   },
-  "homepage": "https://github.com/y5labs/tumu-logs#readme",
+  "homepage": "https://github.com/y5labs/tumu-control#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
